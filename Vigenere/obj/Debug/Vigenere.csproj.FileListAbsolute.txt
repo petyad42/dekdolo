@@ -1,0 +1,14 @@
+D:\C#\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+D:\C#\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+D:\C#\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+D:\C#\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+D:\C#\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+D:\C#\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
+D:\C#\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+D:\C#\kodtoro\Vigenere\bin\Debug\Vigenere.exe.config
+D:\C#\kodtoro\Vigenere\bin\Debug\Vigenere.exe
+D:\C#\kodtoro\Vigenere\bin\Debug\Vigenere.pdb
+D:\C#\kodtoro\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+D:\C#\kodtoro\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+D:\C#\kodtoro\Vigenere\obj\Debug\Vigenere.exe
+D:\C#\kodtoro\Vigenere\obj\Debug\Vigenere.pdb
