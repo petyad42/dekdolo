@@ -16,7 +16,7 @@ namespace Vigenere
             be = be.ToUpper();
             Start2:
             string ki = "";
-            Console.WriteLine("Milyen kód nyelvet akar megfejteni?\nNyomjon c-t, ha Cipher, nyomjon a-t, ha A1Z26, nyomjon t-t ha Atbash!\n");
+            Console.WriteLine("Milyen kód nyelvet akar megfejteni?\nNyomjon c-t, ha Caesar, nyomjon a-t, ha A1Z26, nyomjon t-t ha Atbash!\n");
             char inp = Console.ReadKey().KeyChar;
             if (inp=='c')
             {
